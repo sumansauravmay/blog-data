@@ -8,8 +8,13 @@
     {"id":6,"title":"Typescript","author":"Suman Saurav"},
     {"id":7,"title":"Next.js","author":"Suman Saurav"},
     {"id":8,"title":"StoryBook","author":"Suman Saurav"}
-  ]
-
+  ],
+"education":[
+  {"id":1,"institute":"Masai School","status":"completed"},
+  {"id":2,"institute":"wazirganj college","status":"completed"},
+  {"id":3,"institute":"Mahavir inter college","status":"completed"},
+  {"id":4,"institute":"High School","status":"completed"}
+]
 
 
 }

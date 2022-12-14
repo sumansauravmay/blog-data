@@ -4,21 +4,13 @@
     {"id":2,"title":"CSS","author":"Suman Saurav"},
     {"id":3,"title":"JS","author":"Suman Saurav"},
     {"id":4,"title":"React","author":"Suman Saurav"},
-    {"id":5,"title":"Redux","author":"Suman Saurav"},
-    {"id":6,"title":"Typescript","author":"Suman Saurav"},
-    {"id":7,"title":"Next.js","author":"Suman Saurav"},
-    {"id":8,"title":"StoryBook","author":"Suman Saurav"}
   ],
-"education":[
-  {"id":1,"institute":"Masai School","status":"completed"},
-  {"id":2,"institute":"wazirganj college","status":"completed"},
-  {"id":3,"institute":"Mahavir inter college","status":"completed"},
-  {"id":4,"institute":"High School","status":"completed"}
-],
+
 "register":[
   {
     "id":1,
-    "name":"Suman Saurav",
+    "firstName":"Suman",
+    "lastName":"Saurav",
     "email":"sumansauravmay12345@gmail.com",
     "mobile":6207463569
   }

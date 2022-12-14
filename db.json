@@ -14,7 +14,17 @@
   {"id":2,"institute":"wazirganj college","status":"completed"},
   {"id":3,"institute":"Mahavir inter college","status":"completed"},
   {"id":4,"institute":"High School","status":"completed"}
+],
+"register":[
+  {
+    "id":1,
+    "name":"Suman Saurav",
+    "email":"sumansauravmay12345@gmail.com",
+    "mobile":6207463569
+  }
+],
+"login":[
+  
 ]
-
 
 }
